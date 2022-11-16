@@ -4,7 +4,7 @@
 # This file is formatted using YAML syntax - learn more at https://learnxinyminutes.com/docs/yaml/
 
 title: 'Blue Tech Ed' # Website name
-baseURL: 'https://bluetech-ed.netlify.app' # Website URL
+baseURL: 'itailevi.tk' # Website URL
 
 ############################
 ## PAGE OPTIONS
