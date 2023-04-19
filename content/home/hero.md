@@ -12,7 +12,7 @@ cta:
 widget_id: hero2
 headless: true
 weight: 10
-title: Blue Tech Education
+title: Itai Levi
 cta_alt:
   ? url
   ? label
@@ -26,6 +26,4 @@ hero_media: teacher.png
 ---
 <br>
 
-
-
-Introduce your courses here.
+Software Engineer & System Specialist
