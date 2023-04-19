@@ -1,6 +1,6 @@
 ---
 widget: portfolio
-headless: true
+widget_id: Explore Projects
 weight: 30
 title: Explore Projects
 subtitle: null
@@ -20,7 +20,7 @@ content:
       tag: previous
     - name: Current
       tag: current
-widget_id: Explore Projects
+headless: true
 design:
   columns: "1"
   view: masonry
@@ -28,3 +28,4 @@ design:
   background:
     text_color_light: true
 ---
+Explore Projects
